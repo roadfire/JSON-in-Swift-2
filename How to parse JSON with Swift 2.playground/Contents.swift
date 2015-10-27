@@ -2,6 +2,7 @@ import Foundation
 
 /*:
 # How to Parse JSON with Swift 2
+This Playground only contains the code - you can read the full explanation [here](https://roadfiresoftware.com/2015/10/how-to-parse-json-with-swift-2/).
 */
 
 let blogsURL: NSURL = [#FileReference(fileReferenceLiteral: "blogs.json")#]
